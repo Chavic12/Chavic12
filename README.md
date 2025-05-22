@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Xavier Chávez
 
-Soy un estudiante de Ingeniería en Computación apasionado por la programación, el desarrollo de software y la ciberseguridad. Me encanta aprender cosas nuevas y construir proyectos que resuelvan problemas reales.
+Apasionado por la programación, el desarrollo de software y la ciberseguridad. Me encanta aprender cosas nuevas y construir proyectos que resuelvan problemas reales.
 
 ---
 
