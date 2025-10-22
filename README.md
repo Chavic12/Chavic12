@@ -15,6 +15,7 @@ Desarrollador de software apasionado por crear soluciones tecnológicas, con un 
 
 ### 🔗 Conéctate conmigo
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-chavi.dev-34A853?style=for-the-badge&logo=website&logoColor=white)](https://chavi.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xavierchavez916-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/xavierchavez916)
 [![GitHub](https://img.shields.io/badge/GitHub-Chavic12-181717?style=for-the-badge&logo=github)](https://github.com/chavic12)
 
@@ -81,4 +82,4 @@ Aquí tienes un resumen de las tecnologías con las que trabajo habitualmente.
 
 ---
 
-“El único modo de hacer un gran trabajo es amar lo que haces.” – Steve Jobs
+> “El único modo de hacer un gran trabajo es amar lo que haces.” – Steve Jobs
